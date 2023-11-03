@@ -2,8 +2,8 @@
 Made by Linkinparkophile 🍀
 I used this script to automate the process of finding endpoints in the web application 
 while playing CORRIDOR capture the flag challenge in TryHackMe. 
-Make sure that the necessary libraries are provided for you.
-Just enter your MACHINE_IP as an input and take the result!
+Make sure that the necessary libraries are provided for you and you are connected to the TryHackMe's network.
+Just enter your target MACHINE_IP as an input and take the result!
 '''
 
 import requests
